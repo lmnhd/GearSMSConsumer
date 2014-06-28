@@ -1,0 +1,901 @@
+<Signature xmlns="http://www.w3.org/2000/09/xmldsig#" Id="DistributorSignature">
+<SignedInfo>
+<CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#"></CanonicalizationMethod>
+<SignatureMethod Algorithm="http://www.w3.org/2001/04/xmldsig-more#rsa-sha256"></SignatureMethod>
+<Reference URI="Images/brushed_alu_dark.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>gG2RpOJLPiqApor05/GjJp7k1JKWxmucdzK8d0judZI=</DigestValue>
+</Reference>
+<Reference URI="Images/dark_geometric.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>+zUy0Cpza3kCh0ZPVMqpZLXxH00VKU3LFEEfZ+IJ2Aw=</DigestValue>
+</Reference>
+<Reference URI="Images/grey_wash_wall.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>iV1rWYr9zVG5VSZUsBLj72V41E4+Dv21nTMCTq2ApaQ=</DigestValue>
+</Reference>
+<Reference URI="Images/grid-view.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>fztsmxgLhqVE5RqZx274Bz8QSfu6Z5I3jbtZWGmzdEk=</DigestValue>
+</Reference>
+<Reference URI="Images/keypad-button.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>iS3k5Dl/yeJF1LmmfC3YukDw5Aooe8LqWfENThV5JV0=</DigestValue>
+</Reference>
+<Reference URI="Images/main-list-item.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>3GITQSSuF8USPVBHXFsSkSVhP+C33ySRM+aIoyOI1PE=</DigestValue>
+</Reference>
+<Reference URI="Images/members.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>yBjeN26oy3ZXPPfpcWKhzAhIvWVcf2oetNFImmBOX5Q=</DigestValue>
+</Reference>
+<Reference URI="Images/no-photo.jpg">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>J0mvkPia0ETAiMgmQJx2nzLLMo4yTL0oaCaILXPATfM=</DigestValue>
+</Reference>
+<Reference URI="Images/page.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>RqKGNCChTQK0y9SQPogivbQ/K/GbeSesbZrKiPqS/g4=</DigestValue>
+</Reference>
+<Reference URI="Images/zwartevilt.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>JCxvI0m68VgKm4ywrEXUVFc1RaEzUIUX6S7F85nHZ3g=</DigestValue>
+</Reference>
+<Reference URI="author-signature.xml">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>tNJdeZEOcdt3/f1NCgucHXjFunM0pxOVBFGEQQlD9CI=</DigestValue>
+</Reference>
+<Reference URI="config.xml">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>dAf+rY1y/8PaV5dCbzoeEsQaNQMv2+n9Q8zy0OxDVYM=</DigestValue>
+</Reference>
+<Reference URI="css/jquery.mobile-1.4.2.min.css">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>XRzo6FsOCLRktqEhykCEJKl+DUDGA/CmN62iUEifVi8=</DigestValue>
+</Reference>
+<Reference URI="css/jquery.mobile.custom.structure.css">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>iCrM5IusBxz57Fo9pkyqVwNaA21cHzQi6Xeuk/YneP4=</DigestValue>
+</Reference>
+<Reference URI="css/jquery.mobile.custom.structure.min.css">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>N3wZpFikuRNNHRh8ax7p3SMEQYUnMAu+lh4CDTz9T9g=</DigestValue>
+</Reference>
+<Reference URI="css/jquery.mobile.custom.theme.css">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>kZP+wzsXo4V+1Gj4Y+EC2UMXIDfLmmm3cHRiuDa42vc=</DigestValue>
+</Reference>
+<Reference URI="css/jquery.mobile.custom.theme.min.css">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>LdfJC5x1bU7l7SRbnj7c45eclG+SrbwhH7eznxOCVLI=</DigestValue>
+</Reference>
+<Reference URI="css/style.css">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>xHmPgG8l0aCzQeVfhi29BEktEz+1tvL5NJdLLGj/aQc=</DigestValue>
+</Reference>
+<Reference URI="css/style2.css">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>1rBXR2q7FwN50pdPeJDFb0WT7uKWqu0Xvbc/7N7GTlc=</DigestValue>
+</Reference>
+<Reference URI="icon.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>RYPqo7ldFlVqA9zpD5VFf2bzkvqMdHcDbx36nOBQSHs=</DigestValue>
+</Reference>
+<Reference URI="index.html">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>zRqBvOFqNrKeHZI6Ow0quybcRJ/U5oCmMx1KQAnyucE=</DigestValue>
+</Reference>
+<Reference URI="js/app.js">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>1nUkmheCbklA998e2xS79TXxrGF3NLnlvhfIx2l2/7A=</DigestValue>
+</Reference>
+<Reference URI="js/jquery-1.9.1.js">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>e9gNBsAcA0DBuRWbm0oZfbiCyhjLrI6bmqAl5o+ZjUA=</DigestValue>
+</Reference>
+<Reference URI="js/jquery-ui-1.10.4.min.js">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>YAdZQH/eMv9706zI24pB8XChN8i/SNKi7eNCERd2wCc=</DigestValue>
+</Reference>
+<Reference URI="js/jquery.longpress.js">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>VGB2GAIhTGhXLkKMj7ygf12G/I7luq0I++cCmQDbb1Q=</DigestValue>
+</Reference>
+<Reference URI="js/jquery.mobile-1.3.2.min.js">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>PCsrkztcyLqLREhhcihZiegSoFnAzd65vBJ9HjDPiSQ=</DigestValue>
+</Reference>
+<Reference URI="js/jquery.mobile-1.4.2.min.js">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>+Y/Ugyg2KRTaVZq3a0fu/vPYVDevo21doyftQLKEeqo=</DigestValue>
+</Reference>
+<Reference URI="js/jquery.mobile.custom.min.js">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>PuROAyuezh7nsLWIat+EpoSZZE/eaDU/63CCV+sFr1Y=</DigestValue>
+</Reference>
+<Reference URI="js/lowBatteryCheck.js">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>4IDI/MGoEVQKVqe6/8f+PkUg7ijqXFnxAKL33nbhziY=</DigestValue>
+</Reference>
+<Reference URI="js/quo.js">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>1X/zxNhnzKRFRDhpIm0PCGxomXvCFHwEgpWUjPu/sOs=</DigestValue>
+</Reference>
+<Reference URI="js/sap.js">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>vCx90bZw0t7M9B4St2OGRLUdjMJ8lgKgVzKCUOzMkc4=</DigestValue>
+</Reference>
+<Reference URI="js/string.js">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>+o4+3yghLLyUNor0LjxQnXyAimI0CdktvPwSMZ6wirA=</DigestValue>
+</Reference>
+<Reference URI="lib/gear-ui/js/gear.ui.js">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>9bmG2V6MLQ4oSvcdJA2+Aryk9m+QnUk0RIQq55bNxoo=</DigestValue>
+</Reference>
+<Reference URI="lib/gear-ui/js/gear.ui.min.js">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>tE9LZQqkRSTVPhd+hzjl89eaA1uluntw35YAGXSpkOQ=</DigestValue>
+</Reference>
+<Reference URI="lib/gear-ui/themes/black/gear.ui.css">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>DmoVc7rwo0uz8nWKsMS2VsDtxkOu3K7PH7uQKyDBPMg=</DigestValue>
+</Reference>
+<Reference URI="lib/gear-ui/themes/black/gear.ui.min.css">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>7IqkI5BxQvCTrL9MIRxPsvzBog+CK2iJLaKae/O19ig=</DigestValue>
+</Reference>
+<Reference URI="lib/gear-ui/themes/black/images/Actionbar/tw_ic_menu_detail_disable_holo_dark.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>GQAO0noZqVi5fl5ULFhiy+6PwwihgAtui5YQ82ZLG7I=</DigestValue>
+</Reference>
+<Reference URI="lib/gear-ui/themes/black/images/Actionbar/tw_ic_menu_detail_normal_holo_dark.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>zPxFeLgRUsIFUXBr2fy4aHi2xTT7Ac3W7+uQW9iFR30=</DigestValue>
+</Reference>
+<Reference URI="lib/gear-ui/themes/black/images/Actionbar/tw_ic_menu_moreoverflow_disable_holo_dark.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>exiw00roYbXfzwpHobamTSdHbBprq0A8VtKgC0M0iH4=</DigestValue>
+</Reference>
+<Reference URI="lib/gear-ui/themes/black/images/Actionbar/tw_ic_menu_moreoverflow_normal_holo_dark.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>GIUrWimSml5WlzFXrNu/EwLUDzDldYTCFBG0LQ433kI=</DigestValue>
+</Reference>
+<Reference URI="lib/gear-ui/themes/black/images/Actionbar/tw_ic_menu_selectall_disable_holo_dark.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>IeN52ATwP/4EkMicAC+Yn7SuFE5P8y+yN/qVg6mi1io=</DigestValue>
+</Reference>
+<Reference URI="lib/gear-ui/themes/black/images/Actionbar/tw_ic_menu_selectall_normal_holo_dark.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>4Ocu+Qjbwyc0ZHBxU5SRQli6dzBiUEiz9zcKMp8Jp9g=</DigestValue>
+</Reference>
+<Reference URI="lib/gear-ui/themes/black/images/Controller_icon/tw_btn_check_off_disabled_focused_holo_dark.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>nWbqhx3yGrcg8ct6SekRhHfV04YIli6yO0t54D2wt5w=</DigestValue>
+</Reference>
+<Reference URI="lib/gear-ui/themes/black/images/Controller_icon/tw_btn_check_off_disabled_holo_dark.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>n0izW92bcYbBznn2HVZmNOn+0wfYHmprypDuL7r4C4c=</DigestValue>
+</Reference>
+<Reference URI="lib/gear-ui/themes/black/images/Controller_icon/tw_btn_check_off_focused_holo_dark.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>dF9GUzqHYD72z++PnVAv2aPkqx50iax1a+dzaXr7RyQ=</DigestValue>
+</Reference>
+<Reference URI="lib/gear-ui/themes/black/images/Controller_icon/tw_btn_check_off_holo_dark.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>UqFgj39oIBsn5YX5E2TUUoYQme+CudWJHgfWz/H2vF8=</DigestValue>
+</Reference>
+<Reference URI="lib/gear-ui/themes/black/images/Controller_icon/tw_btn_check_off_pressed_holo_dark.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>8c2KJGYS64wLRk/ibYki7mjbOy8BolpVwyF+8E+7YoU=</DigestValue>
+</Reference>
+<Reference URI="lib/gear-ui/themes/black/images/Controller_icon/tw_btn_check_on_disabled_focused_holo_dark.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>Sgc7q2aPPHUmwhLkswhhMnfCaNJVnf1bGb/bVZMVGkw=</DigestValue>
+</Reference>
+<Reference URI="lib/gear-ui/themes/black/images/Controller_icon/tw_btn_check_on_disabled_holo_dark.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>TJxe/AKtxEkQcQvVHArF5l2SYIy81+8EphMGwCk+smY=</DigestValue>
+</Reference>
+<Reference URI="lib/gear-ui/themes/black/images/Controller_icon/tw_btn_check_on_focused_holo_dark.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>xWyEFpvnvgnZTgRoJYsFsqvUqmO9pHQu+yb5NSYSApQ=</DigestValue>
+</Reference>
+<Reference URI="lib/gear-ui/themes/black/images/Controller_icon/tw_btn_check_on_holo_dark.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>k9AV31QBSSHzX0NQJzkTUNsV6Lbp4enslpgKNMW1YkE=</DigestValue>
+</Reference>
+<Reference URI="lib/gear-ui/themes/black/images/Controller_icon/tw_btn_check_on_pressed_holo_dark.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>NwTpEbKmm3r+SgdwCyaYemDUzQZroRxQ2ZZ0EuBwbNg=</DigestValue>
+</Reference>
+<Reference URI="lib/gear-ui/themes/black/images/Controller_icon/tw_btn_next_depth_disabled_focused_holo_dark.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>VZcxMyct1SN+D1hkmuDGPCz08VE36YZ3g9eQ4msFXZE=</DigestValue>
+</Reference>
+<Reference URI="lib/gear-ui/themes/black/images/Controller_icon/tw_btn_next_depth_disabled_holo_dark.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>CJTP7zTlB2WU3xmRSuD9idoEW2ViRWSW3fLnUAa0uxk=</DigestValue>
+</Reference>
+<Reference URI="lib/gear-ui/themes/black/images/Controller_icon/tw_btn_next_depth_focused_holo_dark.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>pg+aC4TIUYS55mHOmWxk3lr/2h91QekSlSpO2OsNWMc=</DigestValue>
+</Reference>
+<Reference URI="lib/gear-ui/themes/black/images/Controller_icon/tw_btn_next_depth_holo_dark.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>T42+rNkZU5E/hFFQ0z0gZxjwCCuTEs0n7FZ+0T75lTc=</DigestValue>
+</Reference>
+<Reference URI="lib/gear-ui/themes/black/images/Controller_icon/tw_btn_next_depth_pressed_holo_dark.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>AsPhv5fKI7sviXhhioUIvfSuECSOScig9o3q0AorlrY=</DigestValue>
+</Reference>
+<Reference URI="lib/gear-ui/themes/black/images/Controller_icon/tw_btn_radio_off_disabled_focused_holo_dark.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>XImM2qy0WoSK3Sxxsx8nXvhvm37EjvkistZXUynk/7Y=</DigestValue>
+</Reference>
+<Reference URI="lib/gear-ui/themes/black/images/Controller_icon/tw_btn_radio_off_disabled_holo_dark.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>MCBzm+btyPWDoWcWedkQA0QZ6CyvXeXsDOYDSBrjNss=</DigestValue>
+</Reference>
+<Reference URI="lib/gear-ui/themes/black/images/Controller_icon/tw_btn_radio_off_focused_holo_dark.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>qVE6oSILmsxiZuNIiC60BTytT+ppgScVOBszfCcnHqs=</DigestValue>
+</Reference>
+<Reference URI="lib/gear-ui/themes/black/images/Controller_icon/tw_btn_radio_off_holo_dark.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>bEs3vZUlip7wu06ukBZokmsjiv0wkqVEC0S9q+Czxzg=</DigestValue>
+</Reference>
+<Reference URI="lib/gear-ui/themes/black/images/Controller_icon/tw_btn_radio_off_pressed_holo_dark.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>b6e/RbkbI1QLaqTWU1WImvfNGimwQPr4KIaJ5Jws9oc=</DigestValue>
+</Reference>
+<Reference URI="lib/gear-ui/themes/black/images/Controller_icon/tw_btn_radio_on_disabled_focused_holo_dark.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>DefOMfJ9lNiDu7D0IWQGMPyR6wqv0yaOFkuvQf5jdkI=</DigestValue>
+</Reference>
+<Reference URI="lib/gear-ui/themes/black/images/Controller_icon/tw_btn_radio_on_disabled_holo_dark.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>Dj+30on7apKdeCDnlDNfktLPjGb3lgBaFfE96qc6JGQ=</DigestValue>
+</Reference>
+<Reference URI="lib/gear-ui/themes/black/images/Controller_icon/tw_btn_radio_on_focused_holo_dark.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>jCgYNuyMJ6faUkejbXpwwtBrjrb36yJAADqe/aK3yc4=</DigestValue>
+</Reference>
+<Reference URI="lib/gear-ui/themes/black/images/Controller_icon/tw_btn_radio_on_holo_dark.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>Ebx0JKMUwv8R+rXo1oEHUmXyPUllBczklWgLshpibuQ=</DigestValue>
+</Reference>
+<Reference URI="lib/gear-ui/themes/black/images/Controller_icon/tw_btn_radio_on_pressed_holo_dark.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>uzBtCMq98vfEO6lzGrpl4wS0M3OjhNZQeWPyyD9P0VM=</DigestValue>
+</Reference>
+<Reference URI="lib/gear-ui/themes/black/images/Controller_icon/tw_switch_activation_holo_dark.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>L+dTtnavvPKQkuhT1nAYB3JUXLuoiNJ6dstppa0HOiQ=</DigestValue>
+</Reference>
+<Reference URI="lib/gear-ui/themes/black/images/Controller_icon/tw_switch_activation_holo_dark_dim.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>c72MnpmywKjrRN/HoNFstJibOf/K4AyT4b5K/PCYC1I=</DigestValue>
+</Reference>
+<Reference URI="lib/gear-ui/themes/black/images/Controller_icon/tw_switch_activation_holo_dark_pressed.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>VaVIfDtn8a/Z9C0yNh//3+A2xnnBWZ0xoudyTl+Piuo=</DigestValue>
+</Reference>
+<Reference URI="lib/gear-ui/themes/black/images/Controller_icon/tw_switch_disabled_holo_dark.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>foBPioz9hjqxxtkHdIPmXbb3mK1fNkfONTv/JOAsjT4=</DigestValue>
+</Reference>
+<Reference URI="lib/gear-ui/themes/black/images/Controller_icon/tw_switch_disabled_holo_dark_dim.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>PLwHizK9+RSDoRvb5aUE873RwKQHpykkjBqS2i4vQjs=</DigestValue>
+</Reference>
+<Reference URI="lib/gear-ui/themes/black/images/Controller_icon/tw_switch_disabled_holo_dark_pressed.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>WT9haZfpJcZ+FzmF4GsIUw/bPz3Zq9GTgx7nnoEZ+XM=</DigestValue>
+</Reference>
+<Reference URI="lib/gear-ui/themes/black/images/Controller_icon/tw_switch_thumb_activated_disabled_holo_dark.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>j0zUV7LZUAMtw/h/e+nR/DV6hv4pJbMVgFSVmHd1ZPU=</DigestValue>
+</Reference>
+<Reference URI="lib/gear-ui/themes/black/images/Controller_icon/tw_switch_thumb_activated_holo_dark.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>Ni+YApa8axssM+a5WO3YsQJbb8s3fJXlj/oY/uZsE5I=</DigestValue>
+</Reference>
+<Reference URI="lib/gear-ui/themes/black/images/Controller_icon/tw_switch_thumb_activation_pressed_holo_dark.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>m8evKOylB/z1YKQmYW6H8L5RVdPXPGeVqBDiVs+dVVk=</DigestValue>
+</Reference>
+<Reference URI="lib/gear-ui/themes/black/images/Controller_icon/tw_switch_thumb_disabled_holo_dark.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>X/q+uSYRxqPT7rr7JuskK8YZApaT7bes05+nWyOnGWo=</DigestValue>
+</Reference>
+<Reference URI="lib/gear-ui/themes/black/images/Controller_icon/tw_switch_thumb_holo_dark.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>LHS4h7fF5FcI7NNoWIzGjoeB6+1NO22qCHmz93y7X/s=</DigestValue>
+</Reference>
+<Reference URI="lib/gear-ui/themes/black/images/Controller_icon/tw_switch_thumb_pressed_holo_dark.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>n7gr22qpISCtst0Ign8XB6I1BmQnD8Qzdcfeip0o0kg=</DigestValue>
+</Reference>
+<Reference URI="lib/gear-ui/themes/black/images/Popup/tw_device_options_brightness_off.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>0h1EbPE3WeBj9ZfUZ9FpyVZ/Q+TD8EuLVLmqr0J4yyo=</DigestValue>
+</Reference>
+<Reference URI="lib/gear-ui/themes/black/images/Popup/tw_device_options_brightness_on.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>kCR2ZQbq0ODnWTdYFgsdZnNy6PINvN8uIIx4+yxWFJY=</DigestValue>
+</Reference>
+<Reference URI="lib/gear-ui/themes/black/images/Popup/tw_device_options_mute.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>bLu4xcNYesodmru1FKP3jrNWiasJFZLDftiEbZjOY7I=</DigestValue>
+</Reference>
+<Reference URI="lib/gear-ui/themes/black/images/Popup/tw_device_options_outdoor_off.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>FrzO6fIRaFZIgFC4PaT+VZhbBJdKGT6827g+uBRIyYM=</DigestValue>
+</Reference>
+<Reference URI="lib/gear-ui/themes/black/images/Popup/tw_device_options_outdoor_on.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>OhNqTsXzTHBun1RrSEctscIrtPU3Dvj+ixPzQgSzNM4=</DigestValue>
+</Reference>
+<Reference URI="lib/gear-ui/themes/black/images/Popup/tw_device_options_sound.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>bKtC/hbWSvbMLtYyY49+CMO55EWIStOs/RjCEfS2g7o=</DigestValue>
+</Reference>
+<Reference URI="lib/gear-ui/themes/black/images/Popup/tw_device_options_sound_off.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>r0PhRcJuWHPdbOou1QkN5xmRsSz761VypT4iyIEKUC0=</DigestValue>
+</Reference>
+<Reference URI="lib/gear-ui/themes/black/images/Popup/tw_device_options_vibrate.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>C4rLnxMV0Mr7sf41mOKNioMRoQLjQRjlCzZtTe3dGx8=</DigestValue>
+</Reference>
+<Reference URI="lib/gear-ui/themes/black/images/Popup/tw_ic_lock_power_off.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>cLqhiX6jI5+aW9FecdY/AuivjvTlgnW6EMnJ2rojZjA=</DigestValue>
+</Reference>
+<Reference URI="lib/gear-ui/themes/black/images/Popup/tw_ic_lock_restart.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>oFomXnx1p7uKCoUSP6/SAKj6WrM2QMmqHQFexHTtYDU=</DigestValue>
+</Reference>
+<Reference URI="lib/gear-ui/themes/black/images/Progress/tw_progressbar_indeterminate1_holo_dark.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>VTS1kbjWd8/guQKL3OqfwxhqV8lN87NMrR6muQbOe4A=</DigestValue>
+</Reference>
+<Reference URI="lib/gear-ui/themes/black/images/Progress/tw_progressbar_indeterminate2_holo_dark.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>hA2yQ3vgJgV3Zcv5J2bGC+sZCoic52gtEMaHslP9eaA=</DigestValue>
+</Reference>
+<Reference URI="lib/gear-ui/themes/black/images/Progress/tw_scrubber_control_focused_holo_dark.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>tNWXHgyD6a80RB+IEo90Cvt4/FuOYuV0U/53RnNW3UE=</DigestValue>
+</Reference>
+<Reference URI="lib/gear-ui/themes/black/images/Progress/tw_scrubber_control_holo_dark.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>YhPRRU1SqexNg/FczzWmA9fgvNiOrX/GmAIRuAQvGjw=</DigestValue>
+</Reference>
+<Reference URI="lib/gear-ui/themes/black/images/Progress/tw_widget_popup_activity.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>hDAhuXzjOv8tq8GTFPJv6OJU7mmVbXstnNCMs+kLK2I=</DigestValue>
+</Reference>
+<Reference URI="lib/gear-ui/themes/default/gear.ui.css">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>DmoVc7rwo0uz8nWKsMS2VsDtxkOu3K7PH7uQKyDBPMg=</DigestValue>
+</Reference>
+<Reference URI="lib/gear-ui/themes/default/gear.ui.min.css">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>7IqkI5BxQvCTrL9MIRxPsvzBog+CK2iJLaKae/O19ig=</DigestValue>
+</Reference>
+<Reference URI="lib/gear-ui/themes/default/images/Actionbar/tw_ic_menu_detail_disable_holo_dark.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>GQAO0noZqVi5fl5ULFhiy+6PwwihgAtui5YQ82ZLG7I=</DigestValue>
+</Reference>
+<Reference URI="lib/gear-ui/themes/default/images/Actionbar/tw_ic_menu_detail_normal_holo_dark.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>zPxFeLgRUsIFUXBr2fy4aHi2xTT7Ac3W7+uQW9iFR30=</DigestValue>
+</Reference>
+<Reference URI="lib/gear-ui/themes/default/images/Actionbar/tw_ic_menu_moreoverflow_disable_holo_dark.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>exiw00roYbXfzwpHobamTSdHbBprq0A8VtKgC0M0iH4=</DigestValue>
+</Reference>
+<Reference URI="lib/gear-ui/themes/default/images/Actionbar/tw_ic_menu_moreoverflow_normal_holo_dark.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>GIUrWimSml5WlzFXrNu/EwLUDzDldYTCFBG0LQ433kI=</DigestValue>
+</Reference>
+<Reference URI="lib/gear-ui/themes/default/images/Actionbar/tw_ic_menu_selectall_disable_holo_dark.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>IeN52ATwP/4EkMicAC+Yn7SuFE5P8y+yN/qVg6mi1io=</DigestValue>
+</Reference>
+<Reference URI="lib/gear-ui/themes/default/images/Actionbar/tw_ic_menu_selectall_normal_holo_dark.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>4Ocu+Qjbwyc0ZHBxU5SRQli6dzBiUEiz9zcKMp8Jp9g=</DigestValue>
+</Reference>
+<Reference URI="lib/gear-ui/themes/default/images/Controller_icon/tw_btn_check_off_disabled_focused_holo_dark.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>nWbqhx3yGrcg8ct6SekRhHfV04YIli6yO0t54D2wt5w=</DigestValue>
+</Reference>
+<Reference URI="lib/gear-ui/themes/default/images/Controller_icon/tw_btn_check_off_disabled_holo_dark.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>n0izW92bcYbBznn2HVZmNOn+0wfYHmprypDuL7r4C4c=</DigestValue>
+</Reference>
+<Reference URI="lib/gear-ui/themes/default/images/Controller_icon/tw_btn_check_off_focused_holo_dark.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>dF9GUzqHYD72z++PnVAv2aPkqx50iax1a+dzaXr7RyQ=</DigestValue>
+</Reference>
+<Reference URI="lib/gear-ui/themes/default/images/Controller_icon/tw_btn_check_off_holo_dark.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>UqFgj39oIBsn5YX5E2TUUoYQme+CudWJHgfWz/H2vF8=</DigestValue>
+</Reference>
+<Reference URI="lib/gear-ui/themes/default/images/Controller_icon/tw_btn_check_off_pressed_holo_dark.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>8c2KJGYS64wLRk/ibYki7mjbOy8BolpVwyF+8E+7YoU=</DigestValue>
+</Reference>
+<Reference URI="lib/gear-ui/themes/default/images/Controller_icon/tw_btn_check_on_disabled_focused_holo_dark.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>Sgc7q2aPPHUmwhLkswhhMnfCaNJVnf1bGb/bVZMVGkw=</DigestValue>
+</Reference>
+<Reference URI="lib/gear-ui/themes/default/images/Controller_icon/tw_btn_check_on_disabled_holo_dark.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>TJxe/AKtxEkQcQvVHArF5l2SYIy81+8EphMGwCk+smY=</DigestValue>
+</Reference>
+<Reference URI="lib/gear-ui/themes/default/images/Controller_icon/tw_btn_check_on_focused_holo_dark.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>xWyEFpvnvgnZTgRoJYsFsqvUqmO9pHQu+yb5NSYSApQ=</DigestValue>
+</Reference>
+<Reference URI="lib/gear-ui/themes/default/images/Controller_icon/tw_btn_check_on_holo_dark.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>k9AV31QBSSHzX0NQJzkTUNsV6Lbp4enslpgKNMW1YkE=</DigestValue>
+</Reference>
+<Reference URI="lib/gear-ui/themes/default/images/Controller_icon/tw_btn_check_on_pressed_holo_dark.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>NwTpEbKmm3r+SgdwCyaYemDUzQZroRxQ2ZZ0EuBwbNg=</DigestValue>
+</Reference>
+<Reference URI="lib/gear-ui/themes/default/images/Controller_icon/tw_btn_next_depth_disabled_focused_holo_dark.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>VZcxMyct1SN+D1hkmuDGPCz08VE36YZ3g9eQ4msFXZE=</DigestValue>
+</Reference>
+<Reference URI="lib/gear-ui/themes/default/images/Controller_icon/tw_btn_next_depth_disabled_holo_dark.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>CJTP7zTlB2WU3xmRSuD9idoEW2ViRWSW3fLnUAa0uxk=</DigestValue>
+</Reference>
+<Reference URI="lib/gear-ui/themes/default/images/Controller_icon/tw_btn_next_depth_focused_holo_dark.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>pg+aC4TIUYS55mHOmWxk3lr/2h91QekSlSpO2OsNWMc=</DigestValue>
+</Reference>
+<Reference URI="lib/gear-ui/themes/default/images/Controller_icon/tw_btn_next_depth_holo_dark.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>T42+rNkZU5E/hFFQ0z0gZxjwCCuTEs0n7FZ+0T75lTc=</DigestValue>
+</Reference>
+<Reference URI="lib/gear-ui/themes/default/images/Controller_icon/tw_btn_next_depth_pressed_holo_dark.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>AsPhv5fKI7sviXhhioUIvfSuECSOScig9o3q0AorlrY=</DigestValue>
+</Reference>
+<Reference URI="lib/gear-ui/themes/default/images/Controller_icon/tw_btn_radio_off_disabled_focused_holo_dark.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>XImM2qy0WoSK3Sxxsx8nXvhvm37EjvkistZXUynk/7Y=</DigestValue>
+</Reference>
+<Reference URI="lib/gear-ui/themes/default/images/Controller_icon/tw_btn_radio_off_disabled_holo_dark.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>MCBzm+btyPWDoWcWedkQA0QZ6CyvXeXsDOYDSBrjNss=</DigestValue>
+</Reference>
+<Reference URI="lib/gear-ui/themes/default/images/Controller_icon/tw_btn_radio_off_focused_holo_dark.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>qVE6oSILmsxiZuNIiC60BTytT+ppgScVOBszfCcnHqs=</DigestValue>
+</Reference>
+<Reference URI="lib/gear-ui/themes/default/images/Controller_icon/tw_btn_radio_off_holo_dark.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>bEs3vZUlip7wu06ukBZokmsjiv0wkqVEC0S9q+Czxzg=</DigestValue>
+</Reference>
+<Reference URI="lib/gear-ui/themes/default/images/Controller_icon/tw_btn_radio_off_pressed_holo_dark.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>b6e/RbkbI1QLaqTWU1WImvfNGimwQPr4KIaJ5Jws9oc=</DigestValue>
+</Reference>
+<Reference URI="lib/gear-ui/themes/default/images/Controller_icon/tw_btn_radio_on_disabled_focused_holo_dark.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>DefOMfJ9lNiDu7D0IWQGMPyR6wqv0yaOFkuvQf5jdkI=</DigestValue>
+</Reference>
+<Reference URI="lib/gear-ui/themes/default/images/Controller_icon/tw_btn_radio_on_disabled_holo_dark.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>Dj+30on7apKdeCDnlDNfktLPjGb3lgBaFfE96qc6JGQ=</DigestValue>
+</Reference>
+<Reference URI="lib/gear-ui/themes/default/images/Controller_icon/tw_btn_radio_on_focused_holo_dark.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>jCgYNuyMJ6faUkejbXpwwtBrjrb36yJAADqe/aK3yc4=</DigestValue>
+</Reference>
+<Reference URI="lib/gear-ui/themes/default/images/Controller_icon/tw_btn_radio_on_holo_dark.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>Ebx0JKMUwv8R+rXo1oEHUmXyPUllBczklWgLshpibuQ=</DigestValue>
+</Reference>
+<Reference URI="lib/gear-ui/themes/default/images/Controller_icon/tw_btn_radio_on_pressed_holo_dark.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>uzBtCMq98vfEO6lzGrpl4wS0M3OjhNZQeWPyyD9P0VM=</DigestValue>
+</Reference>
+<Reference URI="lib/gear-ui/themes/default/images/Controller_icon/tw_switch_activation_holo_dark.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>L+dTtnavvPKQkuhT1nAYB3JUXLuoiNJ6dstppa0HOiQ=</DigestValue>
+</Reference>
+<Reference URI="lib/gear-ui/themes/default/images/Controller_icon/tw_switch_activation_holo_dark_dim.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>c72MnpmywKjrRN/HoNFstJibOf/K4AyT4b5K/PCYC1I=</DigestValue>
+</Reference>
+<Reference URI="lib/gear-ui/themes/default/images/Controller_icon/tw_switch_activation_holo_dark_pressed.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>VaVIfDtn8a/Z9C0yNh//3+A2xnnBWZ0xoudyTl+Piuo=</DigestValue>
+</Reference>
+<Reference URI="lib/gear-ui/themes/default/images/Controller_icon/tw_switch_disabled_holo_dark.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>foBPioz9hjqxxtkHdIPmXbb3mK1fNkfONTv/JOAsjT4=</DigestValue>
+</Reference>
+<Reference URI="lib/gear-ui/themes/default/images/Controller_icon/tw_switch_disabled_holo_dark_dim.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>PLwHizK9+RSDoRvb5aUE873RwKQHpykkjBqS2i4vQjs=</DigestValue>
+</Reference>
+<Reference URI="lib/gear-ui/themes/default/images/Controller_icon/tw_switch_disabled_holo_dark_pressed.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>WT9haZfpJcZ+FzmF4GsIUw/bPz3Zq9GTgx7nnoEZ+XM=</DigestValue>
+</Reference>
+<Reference URI="lib/gear-ui/themes/default/images/Controller_icon/tw_switch_thumb_activated_disabled_holo_dark.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>j0zUV7LZUAMtw/h/e+nR/DV6hv4pJbMVgFSVmHd1ZPU=</DigestValue>
+</Reference>
+<Reference URI="lib/gear-ui/themes/default/images/Controller_icon/tw_switch_thumb_activated_holo_dark.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>Ni+YApa8axssM+a5WO3YsQJbb8s3fJXlj/oY/uZsE5I=</DigestValue>
+</Reference>
+<Reference URI="lib/gear-ui/themes/default/images/Controller_icon/tw_switch_thumb_activation_pressed_holo_dark.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>m8evKOylB/z1YKQmYW6H8L5RVdPXPGeVqBDiVs+dVVk=</DigestValue>
+</Reference>
+<Reference URI="lib/gear-ui/themes/default/images/Controller_icon/tw_switch_thumb_disabled_holo_dark.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>X/q+uSYRxqPT7rr7JuskK8YZApaT7bes05+nWyOnGWo=</DigestValue>
+</Reference>
+<Reference URI="lib/gear-ui/themes/default/images/Controller_icon/tw_switch_thumb_holo_dark.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>LHS4h7fF5FcI7NNoWIzGjoeB6+1NO22qCHmz93y7X/s=</DigestValue>
+</Reference>
+<Reference URI="lib/gear-ui/themes/default/images/Controller_icon/tw_switch_thumb_pressed_holo_dark.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>n7gr22qpISCtst0Ign8XB6I1BmQnD8Qzdcfeip0o0kg=</DigestValue>
+</Reference>
+<Reference URI="lib/gear-ui/themes/default/images/Popup/tw_device_options_brightness_off.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>0h1EbPE3WeBj9ZfUZ9FpyVZ/Q+TD8EuLVLmqr0J4yyo=</DigestValue>
+</Reference>
+<Reference URI="lib/gear-ui/themes/default/images/Popup/tw_device_options_brightness_on.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>kCR2ZQbq0ODnWTdYFgsdZnNy6PINvN8uIIx4+yxWFJY=</DigestValue>
+</Reference>
+<Reference URI="lib/gear-ui/themes/default/images/Popup/tw_device_options_mute.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>bLu4xcNYesodmru1FKP3jrNWiasJFZLDftiEbZjOY7I=</DigestValue>
+</Reference>
+<Reference URI="lib/gear-ui/themes/default/images/Popup/tw_device_options_outdoor_off.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>FrzO6fIRaFZIgFC4PaT+VZhbBJdKGT6827g+uBRIyYM=</DigestValue>
+</Reference>
+<Reference URI="lib/gear-ui/themes/default/images/Popup/tw_device_options_outdoor_on.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>OhNqTsXzTHBun1RrSEctscIrtPU3Dvj+ixPzQgSzNM4=</DigestValue>
+</Reference>
+<Reference URI="lib/gear-ui/themes/default/images/Popup/tw_device_options_sound.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>bKtC/hbWSvbMLtYyY49+CMO55EWIStOs/RjCEfS2g7o=</DigestValue>
+</Reference>
+<Reference URI="lib/gear-ui/themes/default/images/Popup/tw_device_options_sound_off.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>r0PhRcJuWHPdbOou1QkN5xmRsSz761VypT4iyIEKUC0=</DigestValue>
+</Reference>
+<Reference URI="lib/gear-ui/themes/default/images/Popup/tw_device_options_vibrate.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>C4rLnxMV0Mr7sf41mOKNioMRoQLjQRjlCzZtTe3dGx8=</DigestValue>
+</Reference>
+<Reference URI="lib/gear-ui/themes/default/images/Popup/tw_ic_lock_power_off.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>cLqhiX6jI5+aW9FecdY/AuivjvTlgnW6EMnJ2rojZjA=</DigestValue>
+</Reference>
+<Reference URI="lib/gear-ui/themes/default/images/Popup/tw_ic_lock_restart.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>oFomXnx1p7uKCoUSP6/SAKj6WrM2QMmqHQFexHTtYDU=</DigestValue>
+</Reference>
+<Reference URI="lib/gear-ui/themes/default/images/Progress/tw_progressbar_indeterminate1_holo_dark.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>VTS1kbjWd8/guQKL3OqfwxhqV8lN87NMrR6muQbOe4A=</DigestValue>
+</Reference>
+<Reference URI="lib/gear-ui/themes/default/images/Progress/tw_progressbar_indeterminate2_holo_dark.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>hA2yQ3vgJgV3Zcv5J2bGC+sZCoic52gtEMaHslP9eaA=</DigestValue>
+</Reference>
+<Reference URI="lib/gear-ui/themes/default/images/Progress/tw_scrubber_control_focused_holo_dark.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>tNWXHgyD6a80RB+IEo90Cvt4/FuOYuV0U/53RnNW3UE=</DigestValue>
+</Reference>
+<Reference URI="lib/gear-ui/themes/default/images/Progress/tw_scrubber_control_holo_dark.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>YhPRRU1SqexNg/FczzWmA9fgvNiOrX/GmAIRuAQvGjw=</DigestValue>
+</Reference>
+<Reference URI="lib/gear-ui/themes/default/images/Progress/tw_widget_popup_activity.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>hDAhuXzjOv8tq8GTFPJv6OJU7mmVbXstnNCMs+kLK2I=</DigestValue>
+</Reference>
+<Reference URI="lib/tau/LICENSE.Flora">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>92VQynW7d/QsYgFyV87H6Vyo9W4LDy0pGomQllupU0U=</DigestValue>
+</Reference>
+<Reference URI="lib/tau/VERSION">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>phzHqZBViit2xKgU6yMyZ+IZFY3PGEtrMM5FjScCdnQ=</DigestValue>
+</Reference>
+<Reference URI="lib/tau/js/tau.core.js">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>lycRJCi+ucHgPN5GiV8PBihccFJR6xLssS/nRz/QKgE=</DigestValue>
+</Reference>
+<Reference URI="lib/tau/js/tau.core.min.js">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>KVCnfhm56C3+DoJGwuWvY/ZrTdUgYng2Ak+P43h81j8=</DigestValue>
+</Reference>
+<Reference URI="lib/tau/js/tau.js">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>8VNXg8/PLE4g62H0PyjWErEhYhzT/yuFg65wHcqUjbc=</DigestValue>
+</Reference>
+<Reference URI="lib/tau/js/tau.min.js">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>92McjFFJfmYHF3ptJFmmfDrAKELv0mRHZPZXXgNt/LM=</DigestValue>
+</Reference>
+<Reference URI="lib/tau/js/widget/indexScrollbar.js">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>43Bgdb47iZBrcKtKjEc+Jd6sYSrwIDj1uRvFMmkyD5k=</DigestValue>
+</Reference>
+<Reference URI="lib/tau/js/widget/indexScrollbar.min.js">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>w0uNt7GXLzhfb8T/bql6EXRlthIiCag0DExT7tCMJCA=</DigestValue>
+</Reference>
+<Reference URI="lib/tau/js/widget/sectionchanger.js">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>NB7qYq2AxglntUq+FIXrl+iPKzIehcXq6hw3jxDIxvQ=</DigestValue>
+</Reference>
+<Reference URI="lib/tau/js/widget/sectionchanger.min.js">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>4PUSNQGKHC6aiizlWqUaqc7PLH2prfas9k2q7COqx1U=</DigestValue>
+</Reference>
+<Reference URI="lib/tau/js/widget/virtuallist.js">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>3ZV706X0hu2jVvtJvWBLfje5mi0WQzKkZNEZI3sSwk8=</DigestValue>
+</Reference>
+<Reference URI="lib/tau/js/widget/virtuallist.min.js">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>VsvQaWPn3lnBo4bKJbA5wR6WVAZyxnqQMjeGow+AiBo=</DigestValue>
+</Reference>
+<Reference URI="lib/tau/themes/black/images/Actionbar/tw_ic_menu_detail_disable_holo_dark.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>GQAO0noZqVi5fl5ULFhiy+6PwwihgAtui5YQ82ZLG7I=</DigestValue>
+</Reference>
+<Reference URI="lib/tau/themes/black/images/Actionbar/tw_ic_menu_detail_normal_holo_dark.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>zPxFeLgRUsIFUXBr2fy4aHi2xTT7Ac3W7+uQW9iFR30=</DigestValue>
+</Reference>
+<Reference URI="lib/tau/themes/black/images/Actionbar/tw_ic_menu_moreoverflow_disable_holo_dark.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>exiw00roYbXfzwpHobamTSdHbBprq0A8VtKgC0M0iH4=</DigestValue>
+</Reference>
+<Reference URI="lib/tau/themes/black/images/Actionbar/tw_ic_menu_moreoverflow_normal_holo_dark.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>GIUrWimSml5WlzFXrNu/EwLUDzDldYTCFBG0LQ433kI=</DigestValue>
+</Reference>
+<Reference URI="lib/tau/themes/black/images/Actionbar/tw_ic_menu_selectall_disable_holo_dark.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>IeN52ATwP/4EkMicAC+Yn7SuFE5P8y+yN/qVg6mi1io=</DigestValue>
+</Reference>
+<Reference URI="lib/tau/themes/black/images/Actionbar/tw_ic_menu_selectall_normal_holo_dark.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>4Ocu+Qjbwyc0ZHBxU5SRQli6dzBiUEiz9zcKMp8Jp9g=</DigestValue>
+</Reference>
+<Reference URI="lib/tau/themes/black/images/Controller_icon/tw_btn_next_depth_disabled_focused_holo_dark.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>VZcxMyct1SN+D1hkmuDGPCz08VE36YZ3g9eQ4msFXZE=</DigestValue>
+</Reference>
+<Reference URI="lib/tau/themes/black/images/Controller_icon/tw_btn_next_depth_disabled_holo_dark.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>CJTP7zTlB2WU3xmRSuD9idoEW2ViRWSW3fLnUAa0uxk=</DigestValue>
+</Reference>
+<Reference URI="lib/tau/themes/black/images/Controller_icon/tw_btn_next_depth_focused_holo_dark.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>pg+aC4TIUYS55mHOmWxk3lr/2h91QekSlSpO2OsNWMc=</DigestValue>
+</Reference>
+<Reference URI="lib/tau/themes/black/images/Controller_icon/tw_btn_next_depth_holo_dark.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>T42+rNkZU5E/hFFQ0z0gZxjwCCuTEs0n7FZ+0T75lTc=</DigestValue>
+</Reference>
+<Reference URI="lib/tau/themes/black/images/Controller_icon/tw_btn_next_depth_pressed_holo_dark.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>AsPhv5fKI7sviXhhioUIvfSuECSOScig9o3q0AorlrY=</DigestValue>
+</Reference>
+<Reference URI="lib/tau/themes/black/images/Controller_icon/tw_btn_toggle_dark.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>QveDhv1k81aRmyPsym96WpqhRW9hY2S+efNAJlyLF7w=</DigestValue>
+</Reference>
+<Reference URI="lib/tau/themes/black/images/Progress/tw_progressbar_indeterminate1_holo_dark.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>VTS1kbjWd8/guQKL3OqfwxhqV8lN87NMrR6muQbOe4A=</DigestValue>
+</Reference>
+<Reference URI="lib/tau/themes/black/images/Progress/tw_progressbar_indeterminate2_holo_dark.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>hA2yQ3vgJgV3Zcv5J2bGC+sZCoic52gtEMaHslP9eaA=</DigestValue>
+</Reference>
+<Reference URI="lib/tau/themes/black/images/Progress/tw_widget_popup_activity.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>U9wjs31YM94sIt/L7NQddNmQPUhhdKpNO99pT0AOP/o=</DigestValue>
+</Reference>
+<Reference URI="lib/tau/themes/black/images/Scroller/scrollbar-bouncing-effect-bottom.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>SEmF6NyaDDXS3lIiZWNp76MCtzaqpfagCZr25V/vuUA=</DigestValue>
+</Reference>
+<Reference URI="lib/tau/themes/black/images/Scroller/scrollbar-bouncing-effect-left.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>COCGI7jxCP4Ue24qIcWh9Dkd4V9Elz7UFORdK62A43M=</DigestValue>
+</Reference>
+<Reference URI="lib/tau/themes/black/images/Scroller/scrollbar-bouncing-effect-right.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>D/sXPEh5Eflzj8bRtvIKGWr8uM9yOVkZcYWpTQlNbtQ=</DigestValue>
+</Reference>
+<Reference URI="lib/tau/themes/black/images/Scroller/scrollbar-bouncing-effect-top.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>dqaendWOrz1J9Wm2Y3E3kcqAh+YCCVc1wZJBOsEzUUM=</DigestValue>
+</Reference>
+<Reference URI="lib/tau/themes/black/tau.css">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>15a79HW8UBcYH1+MsmFyAA2kkzUpwtlpFWJzxY2ZPIg=</DigestValue>
+</Reference>
+<Reference URI="lib/tau/themes/black/tau.min.css">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>51XzLOyJf24UixHBfCKKbLStrCw+6PrsBBNU4ejsHgo=</DigestValue>
+</Reference>
+<Reference URI="lib/tau/themes/default/images/Actionbar/tw_ic_menu_detail_disable_holo_dark.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>GQAO0noZqVi5fl5ULFhiy+6PwwihgAtui5YQ82ZLG7I=</DigestValue>
+</Reference>
+<Reference URI="lib/tau/themes/default/images/Actionbar/tw_ic_menu_detail_normal_holo_dark.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>zPxFeLgRUsIFUXBr2fy4aHi2xTT7Ac3W7+uQW9iFR30=</DigestValue>
+</Reference>
+<Reference URI="lib/tau/themes/default/images/Actionbar/tw_ic_menu_moreoverflow_disable_holo_dark.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>exiw00roYbXfzwpHobamTSdHbBprq0A8VtKgC0M0iH4=</DigestValue>
+</Reference>
+<Reference URI="lib/tau/themes/default/images/Actionbar/tw_ic_menu_moreoverflow_normal_holo_dark.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>GIUrWimSml5WlzFXrNu/EwLUDzDldYTCFBG0LQ433kI=</DigestValue>
+</Reference>
+<Reference URI="lib/tau/themes/default/images/Actionbar/tw_ic_menu_selectall_disable_holo_dark.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>IeN52ATwP/4EkMicAC+Yn7SuFE5P8y+yN/qVg6mi1io=</DigestValue>
+</Reference>
+<Reference URI="lib/tau/themes/default/images/Actionbar/tw_ic_menu_selectall_normal_holo_dark.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>4Ocu+Qjbwyc0ZHBxU5SRQli6dzBiUEiz9zcKMp8Jp9g=</DigestValue>
+</Reference>
+<Reference URI="lib/tau/themes/default/images/Controller_icon/tw_btn_next_depth_disabled_focused_holo_dark.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>VZcxMyct1SN+D1hkmuDGPCz08VE36YZ3g9eQ4msFXZE=</DigestValue>
+</Reference>
+<Reference URI="lib/tau/themes/default/images/Controller_icon/tw_btn_next_depth_disabled_holo_dark.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>CJTP7zTlB2WU3xmRSuD9idoEW2ViRWSW3fLnUAa0uxk=</DigestValue>
+</Reference>
+<Reference URI="lib/tau/themes/default/images/Controller_icon/tw_btn_next_depth_focused_holo_dark.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>pg+aC4TIUYS55mHOmWxk3lr/2h91QekSlSpO2OsNWMc=</DigestValue>
+</Reference>
+<Reference URI="lib/tau/themes/default/images/Controller_icon/tw_btn_next_depth_holo_dark.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>T42+rNkZU5E/hFFQ0z0gZxjwCCuTEs0n7FZ+0T75lTc=</DigestValue>
+</Reference>
+<Reference URI="lib/tau/themes/default/images/Controller_icon/tw_btn_next_depth_pressed_holo_dark.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>AsPhv5fKI7sviXhhioUIvfSuECSOScig9o3q0AorlrY=</DigestValue>
+</Reference>
+<Reference URI="lib/tau/themes/default/images/Controller_icon/tw_btn_toggle_dark.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>QveDhv1k81aRmyPsym96WpqhRW9hY2S+efNAJlyLF7w=</DigestValue>
+</Reference>
+<Reference URI="lib/tau/themes/default/images/Progress/tw_progressbar_indeterminate1_holo_dark.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>VTS1kbjWd8/guQKL3OqfwxhqV8lN87NMrR6muQbOe4A=</DigestValue>
+</Reference>
+<Reference URI="lib/tau/themes/default/images/Progress/tw_progressbar_indeterminate2_holo_dark.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>hA2yQ3vgJgV3Zcv5J2bGC+sZCoic52gtEMaHslP9eaA=</DigestValue>
+</Reference>
+<Reference URI="lib/tau/themes/default/images/Progress/tw_widget_popup_activity.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>U9wjs31YM94sIt/L7NQddNmQPUhhdKpNO99pT0AOP/o=</DigestValue>
+</Reference>
+<Reference URI="lib/tau/themes/default/images/Scroller/scrollbar-bouncing-effect-bottom.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>SEmF6NyaDDXS3lIiZWNp76MCtzaqpfagCZr25V/vuUA=</DigestValue>
+</Reference>
+<Reference URI="lib/tau/themes/default/images/Scroller/scrollbar-bouncing-effect-left.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>COCGI7jxCP4Ue24qIcWh9Dkd4V9Elz7UFORdK62A43M=</DigestValue>
+</Reference>
+<Reference URI="lib/tau/themes/default/images/Scroller/scrollbar-bouncing-effect-right.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>D/sXPEh5Eflzj8bRtvIKGWr8uM9yOVkZcYWpTQlNbtQ=</DigestValue>
+</Reference>
+<Reference URI="lib/tau/themes/default/images/Scroller/scrollbar-bouncing-effect-top.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>dqaendWOrz1J9Wm2Y3E3kcqAh+YCCVc1wZJBOsEzUUM=</DigestValue>
+</Reference>
+<Reference URI="lib/tau/themes/default/tau.css">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>15a79HW8UBcYH1+MsmFyAA2kkzUpwtlpFWJzxY2ZPIg=</DigestValue>
+</Reference>
+<Reference URI="lib/tau/themes/default/tau.min.css">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>51XzLOyJf24UixHBfCKKbLStrCw+6PrsBBNU4ejsHgo=</DigestValue>
+</Reference>
+<Reference URI="res/xml/serviceprofile.xml">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>8vj5nvu7HMDRVNRbb+mNkuqwYndUWeaSYD9GX76EP+M=</DigestValue>
+</Reference>
+<Reference URI="#prop">
+<Transforms>
+<Transform Algorithm="http://www.w3.org/2006/12/xml-c14n11"></Transform>
+</Transforms>
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>u/jU3U4Zm5ihTMSjKGlGYbWzDfRkGphPPHx3gJIYEJ4=</DigestValue>
+</Reference>
+</SignedInfo>
+<SignatureValue>
+AL6D719I3JL/nTlpdrIT7q3dcc5z0H1al3Dy1GLPkzJSVHUseyoLa7LPm0NehySgUEOFnFvMCY4z
+hlTu7jMHHFrQXsSKF3xNlLIxpWRwNPXIA/23OoKOF6a1axmB7a95TdVn3fkE9k4zv5rxrgWujYOO
+1ktpCbIWFJJRs5HR+DHM0WMJsJd1GH7qPZFNdwP4+SC/aOghb709sHY2Nk+Tt76Fx6Q0srEQfm7I
+PXgafib5UPtDmsFekClL8trlUqFEt5s6ByBcnydvXcNkiSRNukmQx/Wy8dc+5/0JHNcAmRGFmmnt
+sxcBh5OW3iDKJHOdIFQC0U7JMZBiqBK6to2XDA==
+</SignatureValue>
+<KeyInfo>
+<X509Data>
+<X509Certificate>
+MIIDujCCAqKgAwIBAgIBAjANBgkqhkiG9w0BAQsFADCBvDELMAkGA1UEBhMCS1IxFDASBgNVBAgM
+C1NvdXRoIEtvcmVhMQ4wDAYDVQQHDAVTdXdvbjEmMCQGA1UECgwdU2Ftc3VuZyBFbGVjdHJvbmlj
+cyBDby4sIEx0ZC4xDzANBgNVBAsMBk1vYmlsZTEoMCYGA1UEAwwfR0VBUjIgREVWRUxPUEVSIFB1
+YmxpYyBDQSBDbGFzczEkMCIGCSqGSIb3DQEJARYVZ2VhcjIuc2VjQHNhbXN1bmcuY29tMB4XDTE0
+MDYwNDIxMDkwM1oXDTE2MDYwMzIxMDkwM1owaDEJMAcGA1UEBhMAMQkwBwYDVQQIEwAxCTAHBgNV
+BAcTADEOMAwGA1UEChMFVGl6ZW4xDjAMBgNVBAsTBVRpemVuMSUwIwYDVQQDExxOYXRoYW5pZWwg
+T3JhbmdlLWRpc3RyaWJ1dG9yMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAuSgOkeQ7
+Cr0k21jO9JLD6rJPlCSNutgITCg5C+HhxqE96xe0XDaBBxAEK1EzcHpg0PoF6tsg46V8f5dxFeR/
+IcA+RN6vfiw+Idr9+FEgWQRAP2wree0Qc6YYVxa4WjZgHBoiNzEvWXhdAev5vVh84UDKWCF/jqz6
+Rpq6EvVjC7AWaESQI2uaIsNflAoLugd6zUO6bhmFfHBftedxl7v22eN9HRLySMotJ+R7orBtqRre
++hjSvH+THeGayIfACwn3MoP1VTGovInh4BRFHxeeqGfEkxPcC1yWyHrpOz/87cvMfF3/v9zujg/+
+n/JquO/0yEhN+yIar8kdZPu8KGSPRQIDAQABoxowGDAJBgNVHRMEAjAAMAsGA1UdDwQEAwIHgDAN
+BgkqhkiG9w0BAQsFAAOCAQEAikUTGti7uNIMN1s4SfalN6tl3tlP20KeY4CKckXsoJSRc9T4viuP
+JPWiKsKyiy4kboyKIFuXmiEI4N0aX59b7vnHtEwx/M1XiTU6V5p4tjQbrtUnif2Wa8XQsiUjm1TH
+TRJkG4J8Jn2MfsxqVRDg0icBD6wt7LpXLK2saVFulVpAvOmm05R6IjLr/57Cj8+dVnQoWXm6HyqG
+ZcM74QcmC4Ck9W13PSg0CQOunR3XIMkH8e2Vn9jFir80oQDeYGYmDvxIYEdx36Ubq3puwpGn3W6p
+ACIqP7nN+2l7wgv7rZK3SuXkadVnXb7C/NI3Vh/nQ02Y2G4GRNkpivPdA20l8Q==
+</X509Certificate>
+<X509Certificate>
+MIIECDCCAvCgAwIBAgICMp0wDQYJKoZIhvcNAQELBQAwgb4xCzAJBgNVBAYTAktSMRQwEgYDVQQI
+DAtTb3V0aCBLb3JlYTEOMAwGA1UEBwwFU3V3b24xJjAkBgNVBAoMHVNhbXN1bmcgRWxlY3Ryb25p
+Y3MgQ28uLCBMdGQuMQ8wDQYDVQQLDAZNb2JpbGUxKjAoBgNVBAMMIUdFQVIyIERFVkVMT1BFUiBQ
+dWJsaWMgUm9vdCBDbGFzczEkMCIGCSqGSIb3DQEJARYVZ2VhcjIuc2VjQHNhbXN1bmcuY29tMB4X
+DTEzMTIzMDE1MDA0MVoXDTI4MTIyNjE1MDA0MVowgbwxCzAJBgNVBAYTAktSMRQwEgYDVQQIDAtT
+b3V0aCBLb3JlYTEOMAwGA1UEBwwFU3V3b24xJjAkBgNVBAoMHVNhbXN1bmcgRWxlY3Ryb25pY3Mg
+Q28uLCBMdGQuMQ8wDQYDVQQLDAZNb2JpbGUxKDAmBgNVBAMMH0dFQVIyIERFVkVMT1BFUiBQdWJs
+aWMgQ0EgQ2xhc3MxJDAiBgkqhkiG9w0BCQEWFWdlYXIyLnNlY0BzYW1zdW5nLmNvbTCCASIwDQYJ
+KoZIhvcNAQEBBQADggEPADCCAQoCggEBAJ/RgN3VyfWdM1j/2/suXWPbTxs5WHvz08VSTf1FjE3t
+JsBr1EtcdGbDQtp6GM63RCePxB6ckwr+jFcEwWHcOLqm1ywCysbRLhDSsaj4nWDhwuF1kFmwBC9l
+7lktPATwiHIYpCxgrDez61NLn8gMspJr2fNraTKgNik0yw2COQ3VTlLqUm8dm2nIGM+HJZcK2O/S
+GEzyEb9ohHF4JoU3oTXk2y1070b2U+Nb0b3IzJSYzJlPdHW+buUVKjEBtnDkggWuq1oh2iXzsKaH
+qllCQOtslsj8P9WuC9AxiwXfOKVLmhoC/J0FL9mfgu+t0zJDcw8e6Zlh/AJ+WL9B2LZKAdcCAwEA
+AaMQMA4wDAYDVR0TBAUwAwEB/zANBgkqhkiG9w0BAQsFAAOCAQEAQUoY44hWVte38HvKTfHM/UDp
+vgmlPXRI/67k/lTvf2e5wD8NJtpbOLQyqtZ63MMOx2D2lCOji1Y6qUvpW9aBjeQkPsfVUmkx7rWS
+CCGXz81e55ulBr/BgHgvY8fT6dvOUPRY8cy3FW3w3oZsathd7rVlb8zVyA4VXoc321lTrz5ghOmM
+BUq/IkoPJHsZBm8jry1e5KblrVs67tdThAfgARuh3d+DftrWH79RibKaeM3vu6FgobRzCMK2O6SM
+8umCbCAzeq2WQAPuo8i0irAc5mI8EU7D/L4qWC/l3b4t5YVnXr2GPjm1EDjXeJw1Tdo0NPZ6fM3C
+A62AZ85pCVsrUA==
+</X509Certificate>
+</X509Data>
+</KeyInfo>
+<Object Id="prop"><SignatureProperties xmlns:dsp="http://www.w3.org/2009/xmldsig-properties"><SignatureProperty Id="profile" Target="#DistributorSignature"><dsp:Profile URI="http://www.w3.org/ns/widgets-digsig#profile"></dsp:Profile></SignatureProperty><SignatureProperty Id="role" Target="#DistributorSignature"><dsp:Role URI="http://www.w3.org/ns/widgets-digsig#role-distributor"></dsp:Role></SignatureProperty><SignatureProperty Id="identifier" Target="#DistributorSignature"><dsp:Identifier></dsp:Identifier></SignatureProperty></SignatureProperties></Object>
+</Signature>

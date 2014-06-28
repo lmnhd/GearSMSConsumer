@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<widget xmlns:tizen="http://tizen.org/ns/widgets" xmlns="http://www.w3.org/ns/widgets" id="http://halimede/GearSMSConsumer" version="1.0.0" viewmodes="maximized">
+    <tizen:application id="i0OielJNK3.GearSMSConsumer" package="i0OielJNK3" required_version="2.2"/>
+    <content src="index.html"/>
+    <feature name="http://tizen.org/feature/screen.size.normal.320.320"/>
+    <icon src="icon.png"/>
+    <name>GearSMSConsumer</name>
+    <tizen:metadata key="AccessoryServicesLocation" value="res/xml/serviceprofile.xml"/>
+    
+    <tizen:privilege name="http://developer.samsung.com/privilege/accessoryprotocol"/>
+    <tizen:privilege name="http://developer.samsung.com/privilege/irled"/>
+    <tizen:privilege name="http://tizen.org/privilege/content.read"/>
+    <tizen:privilege name="http://tizen.org/privilege/content.write"/>
+    <tizen:setting hwkey-event="enable"/>
+</widget>

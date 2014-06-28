@@ -1,0 +1,190 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta name="viewport" content="width=device-width,user-scalable=no"/>
+	<title>Gear SMS</title>
+	<link rel="stylesheet"  href="lib/tau/themes/default/tau.min.css">
+	<!-- load theme file for your application -->
+	<link rel="stylesheet"  href="css/style.css">
+</head>
+<body class="double-titanium" >
+	
+	<div class="ui-page" id="new-messages" style="width: 320px; height: 320px; display: none;" >
+			<header class="ui-header">
+				<h2 class="ui-title">Incoming</h2>
+			</header>
+				<div class="ui-content alum" style="height: 268px;">
+					<ul class="alum" id="new-message-list">
+							
+					</ul>
+				</div>
+		
+	</div>
+	<div class="ui-page" id="new-message" style="width: 320px; height: 320px; display: none;">
+		<header class="ui-header">
+					<h2 id="new-message-h2" class="ui-title"></h2>
+		</header>
+		
+		<div class="ui-content alum" style="height: 268px;">
+			<input id="new-message-address" type="hidden" data-address=""/>
+				<h3 id="from-header" class="double-titanium"> <span></span></h3>
+				<img id="new-message-img" src="" width="50" height="50" />
+				<p class="double-titanium" id="new-message-body"></p>
+					
+				<button  type="button" class="ui-btn" id="reply">Reply</button>
+				<button  type="button" class="ui-btn" id="next-message" data-next="">Next</button>
+					
+		</div>
+		
+		
+	 </div>
+
+	<div class="ui-page  alum" id="keypad">
+		<div class="displayContainer2">
+			<div id="display" class="display2"></div>
+
+		</div>
+
+		<ol class="keys2">
+			<li id="1" class="metal double-titanium">
+				<div class="num">1</div>
+				<div class="sym" style="color: red">.</div>
+				 <span  class="sub-text alpha ">caps</span>
+				 <span class="alpha"><em >/</em></span>
+				 <span  class="sub-text longpress_mode">char</span>
+			</li>
+
+			<li id="2" class="metal double-titanium"><div class="num">2</div>
+				<div class="sym">-</div> <span class="letters">abc</span></li>
+
+			<li id="3" class="metal double-titanium"><div class="num">3</div>
+				<div class="sym">?</div> <span class="letters">def</span></li>
+
+			<li id="4" class="metal double-titanium"><div class="num">4</div>
+				<div class="sym">!</div> <span class="letters">ghi</span></li>
+
+			<li id="5" class="metal double-titanium"><div class="num">5</div>
+				<div class="sym">@</div> <span class="letters">jkl</span></li>
+
+			<li id="6" class="metal double-titanium"><div class="num">6</div>
+				<div class="sym">#</div> <span class="letters">mno</span></li>
+
+			<li id="7" class="metal double-titanium"><div class="num">7</div>
+				<div class="sym">$</div> <span class="letters">pqrs</span></li>
+
+			<li id="8" class="metal double-titanium"><div class="num">8</div>
+				<div class="sym">&</div> <span class="letters">tuv</span></li>
+
+			<li id="9" class="metal double-titanium"><div class="num">9</div>
+				<div class="sym">*</div> <span class="letters">wxyz</span></li>
+
+			<li id="star" class="metal double-titanium"><div class="control">&lt;</div>
+			<span  class="sub-text longpress_mode alpha ">lockcaps</span>
+			</li>
+
+			<li id="0" class="metal double-titanium"><div class="control">
+			<div class="num">0</div>
+			</div>
+			<div class="sym">'</div>
+			<span  class="sub-text longpress_mode">clear</span>
+			</li>
+
+			<li id="pound" class="metal double-titanium"><div class="control">&gt;</div>
+			<span  class="sub-text longpress_mode">done</span>
+			</li>
+		</ol>
+	</div>
+
+	<div class="ui_page" id="contacts-page" style="width: 320px; height: 320px; display: none;" >
+	
+		<header class="ui-header">
+			<h2 class="ui-title">Contacts</h2>
+		</header>
+	
+		<div class="ui-content alum" style="height: 268px;">
+		
+			<ul class="ui-listview" id="contacts" >
+				
+	
+			</ul>
+			
+		</div>
+		
+		
+
+	</div>
+	<div class="ui-page">
+		
+		
+		<div class="ui-content alum">
+			<ul class="ui-listview" id="inbox">
+			
+				
+			
+			
+			</ul>
+		</div>
+	
+	
+		
+	
+	</div>
+		
+	<div class="ui_page" id="confirm" style="width: 320px; height: 320px; display: none;">
+		<header class="ui-header">
+			<h2 class="ui-title">Confirm</h2>
+		</header>
+		<div class="ui-content double-titanium" style="height: 268px;">
+			<h3>Your message</h3>
+			<p id="final-message"></p>
+			<button type="button" class="ui-btn" id="edit-message">EDIT</button>
+		
+			<h3>To :</h3>
+			<p id="recipient"></p>
+			<button type="button" class="ui-btn" id="change-number">CHANGE NUMBER</button>
+			<div  class="finish-buttons">
+				<button type="button" class="ui-btn" id="send">SEND</button>
+				<button type="button" class="ui-btn" id="cancel">CANCEL</button>
+			</div>
+		</div>
+			
+	
+	
+	</div>
+	
+	
+	
+    
+    <div class="ui-page ui-page-active"  id="main">
+		<header class="ui-header">
+			<h2 class="ui-title">Start from</h2>
+		</header>
+		<div class="ui-content">
+			<ul class="ui-listview" id="main-list">
+				<li class="main-list-item" id="li-new-messages" style="display: none;" onclick="showNewMessages()"><div id="new-message-banner">15</div><a href="#">InBox</a></li>
+				<li class="main-list-item" onclick="getContacts(true)"><img src="/Images/members.png"/><a href="#">Contacts</a></li>
+				<li class="main-list-item" onclick="showKepad(3)"><img src="/Images/grid-view.png"/><a href="#">Number</a></li>
+				<li class="main-list-item" onclick="showKepad(1)"><img src="/Images/page.png"/><a href="#">Message</a></li>
+				<li class="main-list-item" style="display: none" onclick="getInbox()"><a href="#">InBox</a></li>
+				
+			</ul>
+		</div>
+		
+	</div>
+	
+	<div id="popupToast" class="ui-popup ui-popup-toast double-titanium">
+    	<div id="popupToastMsg" class="ui-popup-content" style="overflow-y:scroll;">
+    		</div>
+    </div>
+</body>
+<script type="text/javascript" src="lib/gear-ui/js/gear.ui.min.js"></script>
+<script type="text/javascript" src="js/jquery-1.9.1.js"></script>
+<script type="text/javascript" src="js/quo.js"></script>
+<script type="text/javascript" src="js/string.js"></script>
+
+<script type="text/javascript" src="lib/tau/js/tau.min.js"></script>
+<script type="text/javascript" src="js/sap.js"></script>
+
+<script src="js/app.js"></script>
+<script src="js/lowBatteryCheck.js"></script>
+</html>

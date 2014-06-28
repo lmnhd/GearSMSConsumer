@@ -1,0 +1,25 @@
+<resources>
+    <application name="GearSMSConsumer" >
+        <serviceProfile
+            id="/system/gearsms"
+            name="gearsms"
+            role="consumer"
+            version="1.0"
+            serviceLimit="ONE_PEERAGENT"
+            serviceTimeout="30">
+            <supportedTransports>
+                
+	           	<transport type="TRANSPORT_BT"/>
+	            <transport type="TRANSPORT_WIFI"/>
+            
+            </supportedTransports>
+            <serviceChannel
+                id="105"
+                dataRate="low"
+                priority="low"
+                reliability= "enable">
+            </serviceChannel>
+        </serviceProfile>
+    </application>
+
+</resources>
